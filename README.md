@@ -3,3 +3,4 @@ Semantic segmentation using FCN. The model has been already been trained on PASC
 ### Reference Paper:-  
 1. https://arxiv.org/pdf/1411.4038.pdf  
 
+![Screenshot](FCN.png)
